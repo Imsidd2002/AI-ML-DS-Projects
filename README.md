@@ -1,1 +1,1 @@
-** Lerning ML/DL/AI and Data Science with projects
+**Learning ML/DL/AI and Data Science with projects**
